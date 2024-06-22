@@ -722,7 +722,10 @@ body{
     height: 100vh;
   }
   .rmPage .rmBox{
-    margin-left: 1rem;
+    margin-left: 0rem;
+  }
+  .rmBox img{
+    width: 99%;
   }
   .AllocatePic div{
     margin-top: 1rem;
