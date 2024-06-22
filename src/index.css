@@ -703,8 +703,7 @@ body{
     margin: 1rem 0 2rem 0;
   }
   .AllocateBD h4{
-    font-family: var(--fontFamily-QuickSand);
-    font-size: 25px;
+    font-size: 18px;
     margin: 0.5rem;
     width: 98%;
     padding: 0.5rem 0.8rem;
