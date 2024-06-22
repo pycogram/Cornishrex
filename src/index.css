@@ -287,6 +287,28 @@ body{
   width: 700px;
   height: auto;
 }
+.tokenPage h3{
+  margin-top: 3rem;
+  text-align: center;
+  font-family: var(--fontFamily-QuickSand);
+}
+.tokenPage .AllocateBD{
+  margin: 1rem 0 3rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+}
+.AllocateBD h4{
+  font-family: var(--fontFamily-QuickSand);
+  font-size: 25px;
+  margin: 1rem 1rem 1rem 1rem;
+  width: 500px;
+  border: 2px solid var(--bar-color-light);
+  border-radius: 15px;
+  padding: 1.5rem 1.8rem;
+  text-align: center;
+}
 .tokenPage .AllocatePic{
   display: flex;
   position: relative;
@@ -314,9 +336,6 @@ body{
 }
 .tokenPage .AllP2{
   margin-right: 8rem;
-}
-.rmPage{
-  height: 100vh;
 }
 .rmPage .rmBox{
   display: flex;
@@ -662,10 +681,41 @@ body{
     height: 400px;
     margin-left: 10px;
   }
+  .aboutPic img{
+    width: 250px;
+    height: 300px;
+  }
+  .keyFet h4{
+    width: 400px;
+    font-size: 20px;
+    padding: 0.5rem 0.8rem;
+    text-align: start;
+  }
+  .blobAll img{
+    width: 98%;
+  }
+  .tokenPage h3{
+    margin-top: 3rem;
+    text-align: center;
+    font-family: var(--fontFamily-QuickSand);
+  }
+  .tokenPage .AllocateBD{
+    margin: 1rem 0 2rem 0;
+  }
+  .AllocateBD h4{
+    font-family: var(--fontFamily-QuickSand);
+    font-size: 25px;
+    margin: 0.5rem;
+    width: 98%;
+    padding: 0.5rem 0.8rem;
+  }
   .tokenPage .AllP{
     width: 140px;
     height: 100px;
     margin: 1rem 0;
+  }
+  .rmPage{
+    height: 100vh;
   }
   .rmPage .rmBox{
     margin-left: 1rem;
