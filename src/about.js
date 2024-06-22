@@ -30,7 +30,7 @@ export default function About( props ){
             <h3>Why Choose CORNISHREX?</h3>
             <div className="keyFet">
                     <h4>
-                        1. Innovative: Be a part of the first meme token on the Ethereum Basechain network.
+                        1. Innovative: Be a part of the first meme token on the Solana network.
                     </h4>
                     <h4>
                         2. Educational: Access free tutorials and learn the essentials of cryptocurrency.

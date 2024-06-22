@@ -356,6 +356,11 @@ body{
   height: 100%;
   padding: 0.8rem 0.8rem;
   border-radius: 20px;
+  transition: var(--tran-06);
+}
+.rmText span:hover{
+  transform: scale(0.98);
+  border-color: yellow;
 }
 .rmText span:nth-child(2n){
   margin-top: 5rem;
