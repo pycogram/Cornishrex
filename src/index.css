@@ -113,6 +113,7 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 100%;
 }
 .AllPage{
   padding: 5.5rem 0 1rem 0;
@@ -313,6 +314,9 @@ body{
 }
 .tokenPage .AllP2{
   margin-right: 8rem;
+}
+.rmPage{
+  height: 100vh;
 }
 .rmPage .rmBox{
   display: flex;
@@ -519,7 +523,7 @@ body{
 }
 @media screen and (max-width: 800px){
   .AllPage{
-    padding-top: 2.5rem;
+    padding-top: 2.0rem;
   }
   h1{
     margin-top: 0rem;
@@ -530,6 +534,8 @@ body{
   .homePage nav{
     justify-content: space-between;
     padding: 8px 5rem;
+    position: fixed;
+    top: 0;
   }
   .homePage nav ul{
     display: none;
@@ -640,10 +646,13 @@ body{
     font-size: 40px;
   }
   .homeText h1:nth-child(n1){
-    margin-top: -1rem;
+    margin-top: -2rem;
   }
   .homeText h1:nth-child(2n){
-    margin-top: -1rem;
+    margin-top: -1.5rem;
+  }
+  .homeText h4{
+    margin-top: -2rem;
   }
   .homeText p{
     overflow: hidden;
