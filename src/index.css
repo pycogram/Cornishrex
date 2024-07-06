@@ -724,8 +724,8 @@ body{
     overflow: hidden;
   }
   .homePic img{
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     margin-left: 10px;
   }
   .aboutPic img{
@@ -761,24 +761,24 @@ body{
     margin: 1rem 0;
   }
 
-.rmPage .rmText{
-  margin-top: 1rem;
-}
-.rmText span{
-  margin: 1rem 0.3rem;
-  width: 99%;
-  padding: 0.8rem 0.4rem;
-}
-.rmText span:nth-child(2n){
-  margin-top: 0.4rem;
-}
-.rmText span h4{
-  font-size: 22px;
-}
-.rmText span ul{
-  margin-left: 1.2rem;
-  padding: 1rem 0.1rem 1rem 0.8rem;
-}
+  .rmPage .rmText{
+    margin-top: 1rem;
+  }
+  .rmText span{
+    margin: 1rem 0.3rem;
+    width: 99%;
+    padding: 0.8rem 0.4rem;
+  }
+  .rmText span:nth-child(2n){
+    margin-top: 0.4rem;
+  }
+  .rmText span h4{
+    font-size: 22px;
+  }
+  .rmText span ul{
+    margin-left: 1.2rem;
+    padding: 1rem 0.1rem 1rem 0.8rem;
+  }
   .rmPage .rmBox{
     margin-left: 0rem;
   }
