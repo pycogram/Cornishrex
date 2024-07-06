@@ -22,23 +22,7 @@ export default function Roadmap( props ){
                     </ul>
                 </span>
                 <span>
-                    <h4>Stage 2: Creation of Custodian Wallet (COREX Wallet).</h4>
-                    <h4>Duration: 1-2 months</h4>
-                    <h4>Goals:</h4>
-                    <ul>
-                        <li><h4>Develop a secure and user-friendly wallet for storing COREX tokens.</h4></li>
-                        <l1><h4>Ensure seamless integration with popular blockchain networks.</h4></l1>
-                    </ul>
-                    <h4>Activities:</h4>
-                    <ul>
-                        <li><h4>Design and develop the COREX wallet.</h4></li>
-                        <l1><h4>Conduct rigorous security testing and audits.</h4></l1>
-                        <li><h4>Launch beta testing with selected users to gather feedback.</h4></li>
-                        <l1><h4>Release the wallet on major app stores (Google Play, App Store.</h4></l1>
-                    </ul>
-                </span>
-                <span>
-                    <h4>Stage 3: Airdropping.</h4>
+                    <h4>Stage 2: Airdropping.</h4>
                     <h4>Duration: 1 month</h4>
                     <h4>Goals:</h4>
                     <ul>
@@ -53,7 +37,7 @@ export default function Roadmap( props ){
                     </ul>
                 </span>
                 <span>
-                    <h4>Stage 4: Fairlaunch, CMC and CG Listing.</h4>
+                    <h4>Stage 3: Fairlaunch, CMC and CG Listing.</h4>
                     <h4>Duration: 1-2 months</h4>
                     <h4>Goals:</h4>
                     <ul>
@@ -68,7 +52,7 @@ export default function Roadmap( props ){
                     </ul>
                 </span>
                 <span>
-                    <h4>Stage 5: Massive Marketing, Strategic Buyback, and Continuous Burning.</h4>
+                    <h4>Stage 4: Massive Marketing, Strategic Buyback, and Continuous Burning.</h4>
                     <h4>Duration: Ongoing</h4>
                     <h4>Goals:</h4>
                     <ul>
@@ -83,7 +67,7 @@ export default function Roadmap( props ){
                     </ul>
                 </span>
                 <span>
-                    <h4>Stage 6: Staking Rewards for Diamond Holders.</h4>
+                    <h4>Stage 5: Staking Rewards for Diamond Holders.</h4>
                     <h4>Duration: Ongoing</h4>
                     <h4>Goals:</h4>
                     <ul>
@@ -97,7 +81,7 @@ export default function Roadmap( props ){
                     </ul>
                 </span>
                 <span>
-                    <h4>Stage 7: Free Crypto Tutorial Classes.</h4>
+                    <h4>Stage 6: Free Crypto Tutorial Classes.</h4>
                     <h4>Duration: Ongoing</h4>
                     <ul>
                         <li><h4>Educate the community and potential investors about cryptocurrency and blockchain technology</h4></li>
@@ -110,7 +94,6 @@ export default function Roadmap( props ){
                     </ul>
                 </span>
             </div>
-
             <span className="rmBox">
                 <img src={props.rmPic} alt="Roadmap"/>
             </span>

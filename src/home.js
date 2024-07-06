@@ -5,7 +5,7 @@ const Home = ( props ) => {
         <div className="homePage">
             <div className="homeTextPic">
                 <div className="homeText">
-                    <h1>CORNISHREX</h1>
+                    <h1>CORNISHREX </h1>
                     <h1>$COREX</h1>
                     <h4>
                         CORNISHREX (COREX) is a meme token inspired by the playful Cornish Rex cat. 

@@ -18,13 +18,10 @@ export default function About( props ){
             <h3>KEY FEATURES .....</h3>
             <div className="keyFet">  
                 <h4>
-                    1. Exclusive CORNISHREX Wallet: CORNISHREX features its very own wallet, designed to simplify the process of storing, sending, and receiving tokens. The wallet's intuitive interface ensures that even those new to cryptocurrencies can easily manage their CORNISHREX assets.
+                    1. Free Crypto Tutorials for Newbies: At CORNISHREX, we are committed to educating our community. That's why we offer free crypto tutorials tailored for beginners. These tutorials cover the basics of cryptocurrency, blockchain technology, and how to get started with CORNISHREX, empowering you with the knowledge to navigate the crypto world confidently.
                 </h4>
                 <h4>
-                    2. Free Crypto Tutorials for Newbies: At CORNISHREX, we are committed to educating our community. That's why we offer free crypto tutorials tailored for beginners. These tutorials cover the basics of cryptocurrency, blockchain technology, and how to get started with CORNISHREX, empowering you with the knowledge to navigate the crypto world confidently.
-                </h4>
-                <h4>
-                    3. Attractive Investment Opportunities: CORNISHREX is more than just a fun meme token; it's a compelling investment opportunity. As the first meme token on the Solana blockchain network, CORNISHREX holds significant growth potential. Join our vibrant community and take part in a token that combines entertainment with the promise of financial rewards.
+                    2. Attractive Investment Opportunities: CORNISHREX is more than just a fun meme token; it's a compelling investment opportunity. As the first meme token on the Solana blockchain network, CORNISHREX holds significant growth potential. Join our vibrant community and take part in a token that combines entertainment with the promise of financial rewards.
                 </h4>
             </div>
             <h3>Why Choose CORNISHREX?</h3>
