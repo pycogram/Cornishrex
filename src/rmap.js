@@ -93,6 +93,21 @@ export default function Roadmap( props ){
                         <l1><h4>Provide resources such as guides, articles, and video tutorials.</h4></l1>
                     </ul>
                 </span>
+                <span>
+                    <h4>Stage 7: Launch of the CORNISHREX NFT Market.</h4>
+                    <h4>Duration: Upcoming</h4>
+                    <h4>Goals:</h4>
+                    <ul>
+                        <li><h4>Create a platform for users to mint, buy, sell, and trade NFTs.</h4></li>
+                        <li><h4>Foster a community of artists, collectors, and enthusiasts around digital assets.</h4></li>
+                    </ul>
+                    <h4>Activities:</h4>
+                    <ul>
+                        <li><h4>Develop and launch a user-friendly NFT marketplace on the CORNISHREX platform.</h4></li>
+                        <li><h4>Host events and promotions to encourage user engagement and participation in the NFT market.</h4></li>
+                    </ul>
+                </span>
+
             </div>
             <span className="rmBox">
                 <img src={props.rmPic} alt="Roadmap"/>
