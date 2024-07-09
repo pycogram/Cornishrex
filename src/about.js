@@ -24,7 +24,7 @@ export default function About( props ){
                     2. CORNISHREX NFT Market: We're excited to announce the launch of the CORNISHREX NFT Market! This platform allows you to create, buy, sell, and trade unique digital assets securely and efficiently. Whether you're an artist looking to tokenize your work or a collector searching for one-of-a-kind digital treasures, our NFT Market offers endless opportunities to explore and engage with the world of NFTs.
                 </h4>
                 <h4>
-                    3. Attractive Investment Opportunities: CORNISHREX is more than just a fun meme token; it's a compelling investment opportunity. As the first meme token on the Solana blockchain network, CORNISHREX holds significant growth potential. Join our vibrant community and take part in a token that combines entertainment with the promise of financial rewards.
+                    3. Attractive Investment Opportunities: CORNISHREX is more than just a fun meme token; it's a compelling investment opportunity. As the first meme token on the Solana blockchain network to offer free crypto professional academy, CORNISHREX holds significant growth potential. Join our vibrant community and take part in a token that combines entertainment with the promise of financial rewards.
                 </h4>
             </div>
             <h3>Why Choose CORNISHREX?</h3>
