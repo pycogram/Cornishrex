@@ -15,7 +15,7 @@ export default function About( props ){
                     opportunity for both seasoned crypto enthusiasts and curious newcomers.
                 </h4>
             </div>
-            <h3>KEY FEATURES .....</h3>
+            <h3>Corex utilities..</h3>
             <div className="keyFet">  
                 <h4>
                     1. Free Crypto Tutorials for Newbies: At CORNISHREX, we are committed to educating our community. That's why we offer free crypto tutorials tailored for beginners. These tutorials cover the basics of cryptocurrency, blockchain technology, and how to get started with CORNISHREX, empowering you with the knowledge to navigate the crypto world confidently.
