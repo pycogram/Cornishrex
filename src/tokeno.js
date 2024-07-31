@@ -3,7 +3,6 @@ export default function Token( props ){
     return(
         <div className="tokenPage">
             <h2>TOKENOMICS</h2>
-            <h3>Total Supply: 120,000,000 COREX</h3>
             <div className="AllocateBD">
                 <h4>
                     1. Initial Burn: 40% (48,000,000 COREX) of the total supply will 
